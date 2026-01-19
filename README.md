@@ -11,7 +11,7 @@ Before running the application, ensure you have the following:
 - At least one model pulled (DeepSeek-R1 is recommended for the full experience):
 
 ```bash
-ollama pull deepseek-r1
+ollama pull <model_name>
 ```
 
 ## Installation
@@ -19,8 +19,8 @@ ollama pull deepseek-r1
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repository-url>
-   cd <repository-name>
+   git clone https://github.com/tren6olone/local-mini-gpt.git
+   cd local-mini-gpt
    ```
 
 2. **Create a virtual environment (Recommended):**
